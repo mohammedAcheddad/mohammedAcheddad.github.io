@@ -1,6 +1,6 @@
 github_users:
   - mohammedAcheddad
 
-repo_description_lines_max: 2
+repo_description_lines_max: 3
 
-github_repos: []
+github_repos: ["mohammedAcheddad/AI-Based-Network-IDS_ML-DL","mohammedAcheddad/DRM-using-Watermarking-and-blockchain","mohammedAcheddad/SSH_port_forwarding"]

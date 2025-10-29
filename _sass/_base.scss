@@ -408,6 +408,8 @@ ul.task-list input[type="checkbox"] {
         width: 3.2rem;
         height: 3.2rem;
         margin-bottom: 1rem;
+        /* Make custom image icons match rounded feel of other icons */
+        border-radius: 6px;
       }
 
       svg {
