@@ -25,6 +25,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
 I'm a systems engineer at Oracle (Linux QA, Casablanca), where I automate large-scale testing and integrate AI pipelines to speed up analysis, improve reliability, and maintain compliance across Oracle Linux systems.
 
 My research focus lies in autonomous UAV control, combining nonlinear control theory, Lyapunov-based stability, and deep reinforcement learning. I’m pursuing a PhD in Control Engineering at Hassan II University (ENSEM Casablanca), exploring intelligent flight control using PX4 + ROS 2 simulation.
