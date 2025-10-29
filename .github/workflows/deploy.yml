@@ -102,4 +102,5 @@ jobs:
         if: github.event_name != 'pull_request'
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          folder: _site
+          branch: gh-pages     # ✅ add this line
+          folder: _site        # keep this as is
