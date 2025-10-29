@@ -161,7 +161,6 @@ collections:
     output: true
   projects:
     output: true
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 # -----------------------------------------------------------------------------
 # Jekyll settings
 # -----------------------------------------------------------------------------

@@ -49,10 +49,7 @@
       "startDate": "2024-02-01",
       "endDate": "2024-08-01",
       "summary": "Intern role focusing on OpenSCAP automation, CVE detection, and log analysis scripting to strengthen OS baseline security.",
-      "highlights": [
-        "Implemented OpenSCAP scans and vulnerability workflows",
-        "Developed log-analysis scripts reducing debugging time for QA team"
-      ]
+      "highlights": ["Implemented OpenSCAP scans and vulnerability workflows", "Developed log-analysis scripts reducing debugging time for QA team"]
     },
     {
       "name": "Intelcia IT Solutions",
@@ -61,9 +58,7 @@
       "startDate": "2023-01-01",
       "endDate": "2023-12-31",
       "summary": "Proof of Concept deployment for Fortinet SD-WAN to improve network resilience and security.",
-      "highlights": [
-        "Managed deployment and configuration of SD-WAN solution"
-      ]
+      "highlights": ["Managed deployment and configuration of SD-WAN solution"]
     }
   ],
   "volunteer": [],

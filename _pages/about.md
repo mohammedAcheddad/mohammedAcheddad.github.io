@@ -13,19 +13,13 @@ profile:
 
 selected_papers: false
 social: false # disable built-in social row; we'll inline minimal icons below
-
 ---
-
 
 I’m a Systems Engineer at Oracle, working on the Oracle Linux QA team, where I automate large-scale testing and build AI-powered pipelines to speed up analysis, improve reliability, and ensure compliance across Oracle Linux systems.
 
 Alongside my work, I’m pursuing a PhD in Control Engineering at Hassan II University (ENSEM Casablanca). My research focuses on autonomous UAV control, combining nonlinear control theory, Lyapunov-based stability, and deep reinforcement learning. My aim is developing intelligent flight controllers using the PX4-ROS 2-Gazebo stack in simulation, with plans for real-world testing soon — inshaAllah.
 
 Outside of work and research, I enjoy hiking, swimming, and exploring the beauty of mathematics.
-
-
-
-
 
 - Role: Systems Engineer, Oracle (Linux QA)
 - Research: PhD in Control Engineering — geometric backstepping + learning for UAVs
