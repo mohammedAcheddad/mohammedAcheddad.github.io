@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://mohammedAcheddad.github.io/sitemap.xml
+Sitemap: https://mohammedacheddad.github.io/sitemap.xml
